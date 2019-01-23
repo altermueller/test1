@@ -1,0 +1,11 @@
+Hallo
+<<<<<<< HEAD
+
+3 Zeile
+
+5z
+=======
+Änderung
+
+4Z
+>>>>>>> master
